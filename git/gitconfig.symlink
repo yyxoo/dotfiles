@@ -234,9 +234,3 @@
 [sequence]
 
 	editor = interactive-rebase-tool
-[user]
-	name = Ersi Ni
-	email = ersi.ni@nilbot.net
-	signingkey = E21FFA38
-[github]
-	user = nilbot
